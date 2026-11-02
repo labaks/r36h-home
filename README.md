@@ -86,7 +86,7 @@ Home — на 1,4–1,8%. Ток в меню: ~750 мА у EmulationStation пр
 
 Код — MIT (см. `LICENSE`). Силуэты геймпадов в `home/app/pads/` — из темы
 [es-theme-carbon](https://github.com/RetroPie/es-theme-carbon) (автор Rookervik),
-CC BY-NC-SA: только некоммерческое использование.
+CC BY-NC-SA: только некоммерческое использование. Подробно — `THIRD_PARTY.md`.
 
 ---
 
