@@ -1,0 +1,3 @@
+Силуэты геймпадов — тема es-theme-carbon для EmulationStation, автор Rookervik
+(https://github.com/RetroPie/es-theme-carbon), лицензия CC BY-NC-SA.
+Изменения: SVG переведены в белые PNG без фона.
